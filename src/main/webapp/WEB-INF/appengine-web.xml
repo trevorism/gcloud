@@ -3,7 +3,7 @@
     <runtime>java8</runtime>
     <application>trevorism-gcloud</application>
     <version>0-0-1</version>
-    <service>template-vue3</service>
+    <service>gcloud-service</service>
     <threadsafe>true</threadsafe>
     <system-properties>
         <property name="java.util.logging.config.file" value="WEB-INF/logging.properties"/>
