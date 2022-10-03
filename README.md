@@ -1,6 +1,5 @@
 # gcloud
-![Jenkins](https://img.shields.io/jenkins/build/http/trevorism-build.eastus.cloudapp.azure.com/gcloud)
-![Jenkins Coverage](https://img.shields.io/jenkins/coverage/jacoco/http/trevorism-build.eastus.cloudapp.azure.com/gcloud)
+![Build](https://github.com/trevorism/gcloud/actions/workflows/deploy.yml/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/trevorism/gcloud)
 ![GitHub language count](https://img.shields.io/github/languages/count/trevorism/gcloud)
 ![GitHub top language](https://img.shields.io/github/languages/top/trevorism/gcloud)
